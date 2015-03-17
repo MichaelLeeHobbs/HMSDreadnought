@@ -1,0 +1,22 @@
+{
+name: "Knife Edge",
+mass: 1,
+maxTurnRate: 160,
+maxSpeed: 300,
+maxForce: 300,
+health: 200,
+shield: 200,
+collisionDamage: 50,
+anchorSpriteFile: core/assets/data/anchorSprites/Knife_Edge.ans,
+maxHealth: 100,
+healthRegen: 1,
+maxShield: 100,
+shieldRegen: 5,
+engineSndEft: thruster,
+weapon_six: core/assets/data/weapons/Red_Plasma_Cannon.wpn,
+weapon_two: core/assets/data/weapons/Red_Plasma_Cannon.wpn,
+weapon_one: core/assets/data/weapons/Red_Plasma_Cannon.wpn,
+weapon_three: core/assets/data/weapons/Red_Plasma_Cannon.wpn,
+weapon_five: core/assets/data/weapons/Red_Plasma_Cannon.wpn,
+weapon_four: core/assets/data/weapons/Red_Plasma_Cannon.wpn
+}

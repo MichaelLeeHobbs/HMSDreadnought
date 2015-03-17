@@ -1,0 +1,51 @@
+{
+name: "Knife Edge",
+textureFile: core/assets/textures/knifeedge.png,
+spriteWidth: 59,
+spriteHeight: 370,
+spriteRotation: -90,
+originX: 29,
+originY: 185,
+anchorPoints: {
+	weapon_six: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 340
+	},
+	thrust: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 24
+	},
+	weapon_two: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 135
+	},
+	weapon_one: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 77
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 185
+	},
+	weapon_three: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 190
+	},
+	weapon_five: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 305
+	},
+	weapon_four: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 250
+	}
+}
+}

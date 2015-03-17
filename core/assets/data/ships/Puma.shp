@@ -1,0 +1,20 @@
+{
+name: Puma,
+mass: 1,
+maxTurnRate: 180,
+maxSpeed: 500,
+maxForce: 500,
+health: 200,
+shield: 200,
+collisionDamage: 0,
+anchorSpriteFile: core/assets/data/anchorSprites/Puma.ans,
+maxHealth: 100,
+healthRegen: 1,
+maxShield: 100,
+shieldRegen: 5,
+engineSndEft: thruster,
+weapon_bottom_1: core/assets/data/weapons/Laser_Cannon.wpn,
+weapon_bottom_2: core/assets/data/weapons/Laser_Cannon.wpn,
+weapon_top_2: core/assets/data/weapons/Laser_Cannon.wpn,
+weapon_top_1: core/assets/data/weapons/Laser_Cannon.wpn
+}

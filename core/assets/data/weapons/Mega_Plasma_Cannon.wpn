@@ -1,0 +1,6 @@
+{
+name: "Mega Plasma Cannon",
+rofPerSecond: 0.25,
+sndEffect: shoot,
+projectileFile: core/assets/data/projectiles/Mega_Plasma_Bolt.prj
+}

@@ -1,0 +1,12 @@
+{
+name: "Mega Plasma Bolt",
+mass: 1,
+maxTurnRate: 360,
+maxSpeed: 500,
+maxForce: 500,
+health: 0,
+shield: 0,
+collisionDamage: 10,
+anchorSpriteFile: core/assets/data/anchorSprites/Mega_Plasma_Bolt.ans,
+collisionSndEft: laserHit
+}

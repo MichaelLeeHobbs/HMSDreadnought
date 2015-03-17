@@ -1,0 +1,12 @@
+{
+name: "Red Plasma Bolt",
+mass: 1,
+maxTurnRate: 360,
+maxSpeed: 1000,
+maxForce: 1000,
+health: 0,
+shield: 0,
+collisionDamage: 1,
+anchorSpriteFile: core/assets/data/anchorSprites/Red_Plasma_Bolt.ans,
+collisionSndEft: laserHit
+}

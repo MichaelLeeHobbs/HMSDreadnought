@@ -1,0 +1,21 @@
+{
+name: Songbird,
+textureFile: core/assets/textures/songbird.png,
+spriteWidth: 39,
+spriteHeight: 48,
+spriteRotation: -90,
+originX: 19,
+originY: 24,
+anchorPoints: {
+	weapon_1: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 20,
+		y: 48
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 19,
+		y: 24
+	}
+}
+}

@@ -1,0 +1,17 @@
+{
+name: Everest,
+mass: 1,
+maxTurnRate: 160,
+maxSpeed: 150,
+maxForce: 150,
+health: 50,
+shield: 50,
+collisionDamage: 50,
+anchorSpriteFile: core/assets/data/anchorSprites/Everest.ans,
+maxHealth: 50,
+healthRegen: 1,
+maxShield: 50,
+shieldRegen: 1,
+engineSndEft: thruster,
+weapon_one: core/assets/data/weapons/Mega_Plasma_Cannon.wpn
+}

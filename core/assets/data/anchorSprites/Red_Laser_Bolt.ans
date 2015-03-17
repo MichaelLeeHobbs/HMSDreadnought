@@ -1,0 +1,16 @@
+{
+name: "Red Laser Bolt",
+textureFile: core/assets/textures/redLaser.png,
+spriteWidth: 10,
+spriteHeight: 10,
+spriteRotation: 0,
+originX: 5,
+originY: 5,
+anchorPoints: {
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 5,
+		y: 5
+	}
+}
+}

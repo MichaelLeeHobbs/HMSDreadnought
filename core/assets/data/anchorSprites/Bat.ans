@@ -1,0 +1,31 @@
+{
+name: Bat,
+textureFile: core/assets/textures/bat.png,
+spriteWidth: 44,
+spriteHeight: 45,
+spriteRotation: -90,
+originX: 22,
+originY: 22,
+anchorPoints: {
+	thrust: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 22,
+		y: 19
+	},
+	weapon_right: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 32,
+		y: 38
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 22,
+		y: 22
+	},
+	weapon_left: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 13,
+		y: 38
+	}
+}
+}

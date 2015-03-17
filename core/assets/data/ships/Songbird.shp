@@ -1,0 +1,17 @@
+{
+name: Songbird,
+mass: 1,
+maxTurnRate: 360,
+maxSpeed: 200,
+maxForce: 200,
+health: 15,
+shield: 15,
+collisionDamage: 50,
+anchorSpriteFile: core/assets/data/anchorSprites/Songbird.ans,
+maxHealth: 15,
+healthRegen: 1,
+maxShield: 15,
+shieldRegen: 2,
+engineSndEft: thruster,
+weapon_1: core/assets/data/weapons/Phaser_Cannon.wpn
+}

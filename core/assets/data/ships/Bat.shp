@@ -1,0 +1,18 @@
+{
+name: Bat,
+mass: 1,
+maxTurnRate: 160,
+maxSpeed: 300,
+maxForce: 300,
+health: 20,
+shield: 20,
+collisionDamage: 50,
+anchorSpriteFile: core/assets/data/anchorSprites/Bat.ans,
+maxHealth: 20,
+healthRegen: 1,
+maxShield: 0,
+shieldRegen: 1,
+engineSndEft: thruster,
+weapon_right: core/assets/data/weapons/Red_Plasma_Cannon.wpn,
+weapon_left: core/assets/data/weapons/Red_Plasma_Cannon.wpn
+}

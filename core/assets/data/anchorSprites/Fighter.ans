@@ -1,0 +1,26 @@
+{
+name: Fighter,
+textureFile: core/assets/textures/Fighter.png,
+spriteWidth: 20,
+spriteHeight: 20,
+spriteRotation: 0,
+originX: 10,
+originY: 10,
+anchorPoints: {
+	thrust: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 1,
+		y: 5
+	},
+	weapon: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 10,
+		y: 5
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 10,
+		y: 10
+	}
+}
+}

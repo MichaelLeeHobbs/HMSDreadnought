@@ -1,0 +1,6 @@
+{
+name: "Laser Cannon",
+rofPerSecond: 0.5,
+sndEffect: laserCannon,
+projectileFile: core/assets/data/projectiles/Red_Laser_Bolt.prj
+}

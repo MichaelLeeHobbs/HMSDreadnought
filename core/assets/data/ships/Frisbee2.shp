@@ -1,0 +1,23 @@
+{
+name: Frisbee2,
+mass: 1,
+maxTurnRate: 180,
+maxSpeed: 300,
+maxForce: 300,
+health: 300,
+shield: 300,
+collisionDamage: 0,
+anchorSpriteFile: core/assets/data/anchorSprites/Frisbee2.ans,
+maxHealth: 100,
+healthRegen: 1,
+maxShield: 100,
+shieldRegen: 2,
+engineSndEft: thruster,
+weapon_rear_left: core/assets/data/weapons/Plasma_Cannon.wpn,
+weapon_rear_right: core/assets/data/weapons/Plasma_Cannon.wpn,
+weapon_front_left: core/assets/data/weapons/Plasma_Cannon.wpn,
+weapon_front_right: core/assets/data/weapons/Plasma_Cannon.wpn,
+weapon_rear_center: core/assets/data/weapons/Plasma_Cannon.wpn,
+weapon_center: core/assets/data/weapons/Plasma_Cannon.wpn,
+weapon_front_center: core/assets/data/weapons/Plasma_Cannon.wpn
+}

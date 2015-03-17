@@ -1,0 +1,16 @@
+{
+name: "Phaser Bolt",
+textureFile: core/assets/textures/greenBolt.png,
+spriteWidth: 20,
+spriteHeight: 20,
+spriteRotation: -90,
+originX: 10,
+originY: 10,
+anchorPoints: {
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 10,
+		y: 10
+	}
+}
+}

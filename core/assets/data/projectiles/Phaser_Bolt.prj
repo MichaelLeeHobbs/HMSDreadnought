@@ -1,0 +1,12 @@
+{
+name: "Phaser Bolt",
+mass: 1,
+maxTurnRate: 360,
+maxSpeed: 1000,
+maxForce: 1000,
+health: 0,
+shield: 0,
+collisionDamage: 2,
+anchorSpriteFile: core/assets/data/anchorSprites/Phaser_Bolt.ans,
+collisionSndEft: laserHit
+}

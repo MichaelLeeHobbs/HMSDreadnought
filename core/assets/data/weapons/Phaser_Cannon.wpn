@@ -1,0 +1,6 @@
+{
+name: "Phaser Cannon",
+rofPerSecond: 1,
+sndEffect: shoot,
+projectileFile: core/assets/data/projectiles/Phaser_Bolt.prj
+}

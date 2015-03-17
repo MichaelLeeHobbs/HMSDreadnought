@@ -1,0 +1,12 @@
+{
+name: "Plasma Bolt",
+mass: 1,
+maxTurnRate: 3.4028235E38,
+maxSpeed: 1000,
+maxForce: 1000,
+health: 0,
+shield: 0,
+collisionDamage: 10,
+anchorSpriteFile: core/assets/data/anchorSprites/Plasma_Bolt.ans,
+collisionSndEft: explode
+}

@@ -1,0 +1,6 @@
+{
+name: "Alien Plasma Cannon",
+rofPerSecond: 0.5,
+sndEffect: saucershoot,
+projectileFile: core/assets/data/projectiles/Alien_Plasma_Bolt.prj
+}

@@ -1,0 +1,17 @@
+{
+name: MothershipBlue,
+mass: 1,
+maxTurnRate: 180,
+maxSpeed: 140,
+maxForce: 140,
+health: 0,
+shield: 0,
+collisionDamage: 0,
+anchorSpriteFile: core/assets/data/anchorSprites/MothershipBlue.ans,
+maxHealth: 100,
+healthRegen: 1,
+maxShield: 100,
+shieldRegen: 5,
+engineSndEft: largesaucer,
+origin: core/assets/data/weapons/Alien_Plasma_Cannon.wpn
+}

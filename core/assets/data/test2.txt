@@ -1,0 +1,51 @@
+{
+name: Player,
+maxTurnRate: 180,
+maxSpeed: 300,
+maxForce: 200,
+health: 100,
+shield: 100,
+collisionDamage: 50,
+anchorSpriteFile: null,
+maxHealth: 100,
+healthRegen: 1,
+maxShield: 100,
+shieldRegen: 5,
+engineSndEft: thrust,
+weapon_rear_left: {
+	name: "Plasma Cannon",
+	rofPerSecond: 2,
+	sndEffect: shoot,
+	projectileFile: core/assets/data/projectiles/Plasma_Bolt.jsn
+},
+weapon_front_left: {
+	name: "Plasma Cannon",
+	rofPerSecond: 2,
+	sndEffect: shoot,
+	projectileFile: core/assets/data/projectiles/Plasma_Bolt.jsn
+},
+weapon_front_right: {
+	name: "Plasma Cannon",
+	rofPerSecond: 2,
+	sndEffect: shoot,
+	projectileFile: core/assets/data/projectiles/Plasma_Bolt.jsn
+},
+weapon_rear_center: {
+	name: "Plasma Cannon",
+	rofPerSecond: 2,
+	sndEffect: shoot,
+	projectileFile: core/assets/data/projectiles/Plasma_Bolt.jsn
+},
+weapon_center: {
+	name: "Plasma Cannon",
+	rofPerSecond: 2,
+	sndEffect: shoot,
+	projectileFile: core/assets/data/projectiles/Plasma_Bolt.jsn
+},
+weapon_front_center: {
+	name: "Plasma Cannon",
+	rofPerSecond: 2,
+	sndEffect: shoot,
+	projectileFile: core/assets/data/projectiles/Plasma_Bolt.jsn
+}
+}

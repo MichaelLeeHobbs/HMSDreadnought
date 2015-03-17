@@ -1,0 +1,56 @@
+{
+name: Frisbee2,
+textureFile: core/assets/textures/frisbee2.png,
+spriteWidth: 148,
+spriteHeight: 144,
+spriteRotation: 0,
+originX: 74,
+originY: 72,
+anchorPoints: {
+	weapon_rear_left: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 29,
+		y: 49
+	},
+	thrust_right: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 124,
+		y: 3
+	},
+	weapon_front_left: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 28,
+		y: 97
+	},
+	thrust_left: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 24,
+		y: 3
+	},
+	weapon_front_right: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 120,
+		y: 97
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 74,
+		y: 72
+	},
+	weapon_rear_center: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 74,
+		y: 23
+	},
+	weapon_center: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 74,
+		y: 74
+	},
+	weapon_front_center: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 118,
+		y: 49
+	}
+}
+}

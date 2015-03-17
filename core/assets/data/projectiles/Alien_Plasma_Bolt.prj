@@ -1,0 +1,12 @@
+{
+name: "Alien Plasma Bolt",
+mass: 1,
+maxTurnRate: 3.4028235E38,
+maxSpeed: 500,
+maxForce: 500,
+health: 0,
+shield: 0,
+collisionDamage: 10,
+anchorSpriteFile: core/assets/data/anchorSprites/Alien_Plasma_Bolt.ans,
+collisionSndEft: explode
+}

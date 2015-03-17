@@ -1,0 +1,17 @@
+{
+name: Fighter,
+mass: 1,
+maxTurnRate: 45,
+maxSpeed: 200,
+maxForce: 200,
+health: 20,
+shield: 20,
+collisionDamage: 50,
+anchorSpriteFile: core/assets/data/anchorSprites/Fighter.ans,
+maxHealth: 10,
+healthRegen: 1,
+maxShield: 0,
+shieldRegen: 5,
+engineSndEft: thruster,
+weapon: core/assets/data/weapons/Red_Plasma_Cannon.wpn
+}

@@ -1,0 +1,6 @@
+{
+name: "Red Plasma Cannon",
+rofPerSecond: 0.5,
+sndEffect: shoot,
+projectileFile: core/assets/data/projectiles/Red_Plasma_Bolt.prj
+}

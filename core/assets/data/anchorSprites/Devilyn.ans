@@ -1,0 +1,106 @@
+{
+name: Devilyn,
+textureFile: core/assets/textures/devilynScaled.png,
+spriteWidth: 300,
+spriteHeight: 245,
+spriteRotation: -90,
+originX: 150,
+originY: 122,
+anchorPoints: {
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 150,
+		y: 122
+	},
+	weapon_5: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 56,
+		y: 142
+	},
+	weapon_6: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 86,
+		y: 142
+	},
+	weapon_3: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 96,
+		y: 102
+	},
+	weapon_4: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 18,
+		y: 152
+	},
+	weapon_9: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 150,
+		y: 86
+	},
+	weapon_7: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 70,
+		y: 184
+	},
+	weapon_8: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 70,
+		y: 240
+	},
+	weapon_15: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 242,
+		y: 142
+	},
+	weapon_14: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 212,
+		y: 152
+	},
+	weapon_13: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 256,
+		y: 102
+	},
+	weapon_12: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 202,
+		y: 100
+	},
+	weapon_2: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 42,
+		y: 100
+	},
+	weapon_11: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 238,
+		y: 55
+	},
+	weapon_1: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 58,
+		y: 55
+	},
+	weapon_10: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 150,
+		y: 145
+	},
+	weapon_18: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 225,
+		y: 240
+	},
+	weapon_17: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 225,
+		y: 184
+	},
+	weapon_16: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 280,
+		y: 145
+	}
+}
+}

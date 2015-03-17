@@ -1,0 +1,12 @@
+{
+name: "Red Laser Bolt",
+mass: 1,
+maxTurnRate: 3.4028235E38,
+maxSpeed: 700,
+maxForce: 700,
+health: 0,
+shield: 0,
+collisionDamage: 5,
+anchorSpriteFile: core/assets/data/anchorSprites/Red_Laser_Bolt.ans,
+collisionSndEft: laserHit
+}

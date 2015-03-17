@@ -1,0 +1,46 @@
+{
+name: Puma,
+textureFile: core/assets/textures/puma.png,
+spriteWidth: 369,
+spriteHeight: 150,
+spriteRotation: 0,
+originX: 184,
+originY: 75,
+anchorPoints: {
+	thrust: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 10,
+		y: 75
+	},
+	weapon_bottom_1: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 90,
+		y: 48
+	},
+	weapon_bottom_2: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 160,
+		y: 35
+	},
+	weapon_top_2: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 160,
+		y: 115
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 184,
+		y: 75
+	},
+	weapon_top_1: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 90,
+		y: 100
+	},
+	weapon_front: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 337,
+		y: 75
+	}
+}
+}

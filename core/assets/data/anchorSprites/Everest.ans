@@ -1,0 +1,26 @@
+{
+name: Everest,
+textureFile: core/assets/textures/everest.png,
+spriteWidth: 105,
+spriteHeight: 128,
+spriteRotation: -90,
+originX: 52,
+originY: 64,
+anchorPoints: {
+	thrust: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 50,
+		y: 5
+	},
+	weapon_one: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 50,
+		y: 72
+	},
+	origin: {
+		class: com.badlogic.gdx.math.Vector2,
+		x: 52,
+		y: 64
+	}
+}
+}
